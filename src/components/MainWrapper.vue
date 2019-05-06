@@ -4,7 +4,7 @@
       <a-alert
         class="margin"
         message="What is this?"
-        description="Additional description and informations about copywriting."
+        description="Press the button and make a random HTTP request"
         type="info"
         showIcon
       />
